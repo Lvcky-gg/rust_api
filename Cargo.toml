@@ -16,4 +16,4 @@ version = "0.4.4"
 default-features = false
 features = ["json", "serve"]
 [dependencies.rocket_dyn_templates]
-features = ["handlebars"]8888888888888888888888initdb  -D '/var/lib/postgres/]'[ttttttttttttttttttttttttttttttttttttttttttttttttata'
+features = ["handlebars"]
